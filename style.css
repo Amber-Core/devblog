@@ -15,7 +15,7 @@ header{
 nav{
 
 }
-nav li{
+nav ul{
   list-style: none;
   display: inline;
   padding: 150px 30px;
