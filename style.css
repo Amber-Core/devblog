@@ -5,10 +5,11 @@ nav{
   
   background-color: #676767;
 }
+nav li{
+  padding: 90px;
+}
 nav ul{
   display: inline;
-  padding: 25px;
-  
 }
 a:link{
   color:#000000;
