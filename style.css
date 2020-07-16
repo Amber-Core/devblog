@@ -7,3 +7,15 @@ nav{
   
   
 }
+a:link{
+  color:#000000;
+}
+a:visited{
+  color:#000000;
+}
+a:hover{
+  color:#666999;
+}
+a:active{
+  color:#666699;
+}
