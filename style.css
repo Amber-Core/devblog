@@ -1,11 +1,9 @@
-.headers{
-  position: relative;
-  align-items: center;
-  text-align: center;
-  line-height: 20px;
-  color: #fcc203;
-}
-
 body{
   background-color: #454545;
+}
+nav{
+  background-color: #676767;
+  
+  
+  
 }
